@@ -1,2 +1,3 @@
 A Turma JavaScript 05 é TOP!
 A Turma JS05 está na sessão de git
+Atualização Remota
